@@ -4,3 +4,6 @@
 
 Para ejecutar el sistema, debes poner:
 ```nps install react```
+
+
+sistema de Registro 2
